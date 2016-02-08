@@ -325,7 +325,7 @@ This command will send text to [group_id]
 *Only admins and sudo can use res, setowner, commands
 ]],
     help_text = [[
-Commands list :
+دستورات ربات
 
 !kick [username|id]
 You can also do it by reply
@@ -340,28 +340,28 @@ You can also do it by reply
 Members list
 
 !modlist
-Moderators list
+لیست مدیران
 
 !promote [username]
-Promote someone
+اضافع کردن مدیر
 
 !demote [username]
-Demote someone
+پاک کردن مدیر
 
 !kickme
 Will kick user
 
 !about
-Group description
+درباره گروه
 
 !setphoto
-Set and locks group photo
+تنظیم عکس گروه
 
 !setname [name]
-Set group name
+تنظیم اسم گروه
 
 !rules
-Group rules
+راهنما گروه
 
 !id
 return group id or user id
